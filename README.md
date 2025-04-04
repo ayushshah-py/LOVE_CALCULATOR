@@ -25,7 +25,7 @@ The **Love Calculator** is a fun web-based application that calculates the "love
 ### Installation & Usage  
 1. Download or clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/love-calculator.git
+   git clone https://github.com/ayushshah-py/LOVE_CALCULATOR.git
    ```
 2. Open `index.html` in your preferred browser.  
 3. Enjoy the love calculations!  
